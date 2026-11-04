@@ -60,3 +60,17 @@ padding: 9px;
     transform: translateX(400px) translateY(100px) ;
     line-height: 30px;
 }
+
+
+
+.input{
+    transform: translateY(300px) translateX(300px) ;
+}
+
+
+.h3-2{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+
