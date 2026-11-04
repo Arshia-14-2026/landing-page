@@ -64,13 +64,32 @@ padding: 9px;
 
 
 .input{
-    transform: translateY(300px) translateX(300px) ;
+    transform: translateY(150px) translateX(500px) ;
 }
 
+.input1{
+    width: 250px;
+    height: 40px;
+    background: rgba(128, 128, 128, 0.657);
+    border-radius: 13px;
+}
+
+.input2{
+    width: 50px;
+    height: 37px;
+    transform: translateX(-55px) translateY(1px) ;
+    border: none;
+    background: rgba(128, 128, 128, 0.657);
+    border-radius: 13px;
+}
 
 .h3-2{
     color: aliceblue;
     font-size: 20px;
+    transform: translateY(100px) translateX(500px) ;
 }
 
 
+.send{
+    transform: translateX(-95px) translateY(7px) ;
+}
